@@ -1,0 +1,15 @@
+{
+  "snippets_file": "snippets : It is an obsidian plugin, that replaces your selected text.\nlorem : Lorem $tb$ ipsum $tb$ dolor.",
+  "snippets": [
+    "snippets : It is an obsidian plugin, that replaces your selected text.",
+    "lorem : Lorem $tb$ ipsum $tb$ dolor."
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": true,
+  "useSpace": true,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": true
+}

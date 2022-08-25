@@ -1,0 +1,34 @@
+{
+  "choices": [
+    {
+      "id": "d2d887f4-8c86-4bc9-bb17-38aeb40eb9f0",
+      "name": "New meeting minutes",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/Meeting minutes.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE: YYYY-MM-DD}} - {{VALUE:Title}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Meetings"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line"
+}

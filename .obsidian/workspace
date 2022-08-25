@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "413c6d6d4a4a3ad9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8020809f469d0bc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TODOs.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4016c2cacf81acc",
+    "type": "split",
+    "children": [
+      {
+        "id": "8951bdb51288407e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1883686fd2ce7041",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4686899e7f1df23a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#todo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4889b087df94f1fa",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6ed5fdbd515735bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "18a1542130e6deda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7b8abff3f611603",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TODOs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "510a380f6a6df252",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TODOs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4830f3eeedb6b54",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f892c919f09d9dcc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TODOs.md"
+              }
+            }
+          },
+          {
+            "id": "fef90888468d8b5f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "f8020809f469d0bc",
+  "lastOpenFiles": [
+    "Meetings/ 2022-08-25 - standup.md",
+    "Metadata/Workflow definition.md",
+    "Metadata/Glossary.md",
+    "Templates/Contact.md",
+    "Templates/Meeting minutes.md",
+    "TODOs.md",
+    "Meetings/ 2022-08-24 - Teszt.md",
+    "Templates/Application.md",
+    "Untitled.md",
+    "2022-08-24.md"
+  ]
+}

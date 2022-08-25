@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-glossary-plugin",
+	"name": "Glossary Plugin",
+	"version": "1.0.1",
+	"minAppVersion": "0.12.0",
+	"description": "Reads word definitions from a glossary and automatically highlights them.",
+	"author": "FloraFilip",
+	"authorUrl": "https://obsidian.md",
+	"isDesktopOnly": true
+}
